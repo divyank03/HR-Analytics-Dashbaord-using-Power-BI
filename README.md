@@ -57,6 +57,18 @@ There was a strong need for a centralized, interactive dashboard that could tran
 - Job roles with longest average tenure, suggesting higher engagement.
 - Visualization of age distribution helping target succession planning
 
+## ❓ Key Business Questions:-
+- What is the current total headcount of employees?
+- What is the overall employee attrition rate, and how has it changed over time?
+- Which departments or job roles have the highest attrition rates?
+- What is the average tenure of employees across departments?
+- What is the gender distribution across departments and roles?
+- How do hiring and exit trends compare month over month?
+- Which departments are growing or shrinking in terms of headcount?
+- Are there any patterns or trends in attrition based on age, gender, or department?
+- Enables deeper analysis for strategic HR interventions.
+- Can we filter and view HR metrics by time period, gender, or department?
+
 ## 🎯 Goal of the Dashboard
 To provide HR leaders with a centralized, interactive dashboard that delivers real-time insights into key workforce metrics—such as employee headcount, attrition rate, average tenure, and gender diversity—in order to support strategic decision-making, improve employee retention, monitor diversity efforts, and optimize workforce planning.
 
