@@ -43,3 +43,8 @@ There was a strong need for a centralized, interactive dashboard that could tran
 - Identified high-attrition departments
 - Supported diversity and retention strategy planning
 
+## 🎯 Goal of the Dashboard
+To provide HR leaders with a centralized, interactive dashboard that delivers real-time insights into key workforce metrics—such as employee headcount, attrition rate, average tenure, and gender diversity—in order to support strategic decision-making, improve employee retention, monitor diversity efforts, and optimize workforce planning.
+
+
+
