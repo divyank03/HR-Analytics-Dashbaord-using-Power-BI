@@ -8,7 +8,7 @@ The HR team was managing large volumes of employee data across scattered Excel s
 
 There was a strong need for a centralized, interactive dashboard that could transform raw HR data into actionable insights to support strategic workforce planning and improve overall organizational performance.
 
-##  📊 HR Analytics Dashboard Overview
+##  📊 HR Analytics Dashboard
 ![HR Analytics Dashboard - Screenshot](https://github.com/user-attachments/assets/123e8e33-b4f6-4b10-9b84-85edfcb211b4)
 
 
