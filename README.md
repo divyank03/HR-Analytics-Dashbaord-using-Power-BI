@@ -10,7 +10,7 @@ To design and develop an interactive HR Analytics Dashboard using Power BI that 
 - Excel	- Source of raw HR data; initial data handling and exploration.
 - Data Modeling (Star Schema)	- Structured relationships for optimized performance and scalability.
 
-##🌟 Features / Highlights of the HR Analytics Dashboard - 
+## 🌟 Features / Highlights of the HR Analytics Dashboard - 
 
 📌 KPI Cards for quick overview:
 - Total Employees.
