@@ -8,6 +8,8 @@ The HR team was managing large volumes of employee data across scattered Excel s
 
 There was a strong need for a centralized, interactive dashboard that could transform raw HR data into actionable insights to support strategic workforce planning and improve overall organizational performance.
 
+##  📊 HR Analytics Dashboard Overview
+
 ## 🛠️ Tech Stack Used:
 - Power BI	- Dashboard development, data visualization, and report sharing.
 - Power Query	- Data extraction, cleaning, and transformation (ETL).
